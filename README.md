@@ -1,10 +1,8 @@
 # With-Just-One-Line
 雑誌BRUTUS（ブルータス）の「一行だけで。」の[Youtube企画](https://www.youtube.com/watch?v=vGuLOHjpCLk)を誰でも再現して体験できるWebアプリです。  
-仲の良い友人や仕事仲間同たちとの飲み会の際に、是非ご活用ください。
+仲の良い友人や仕事仲間たちとの飲み会の際に、是非ご活用ください。
 
 ## 使い方
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/974d10d5-7d6e-401f-87f8-2e27890cba42" />
-
 1. 本家の企画同様に「あなたの名前と職業は？」という質問に答える形で改めて自己紹介し合う
   - デフォルトでその質問が表示されています
 2. 「お題を変える」ボタンを押し、出てきたお題に対する答えを考える
