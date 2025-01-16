@@ -1,6 +1,6 @@
 # With-Just-One-Line
 雑誌BRUTUS（ブルータス）の「一行だけで。」の[Youtube企画](https://www.youtube.com/watch?v=vGuLOHjpCLk)を誰でも再現して体験できるWebアプリです。  
-仲の良い友人や家族、恋人との会食の際に、是非ご活用ください。
+仲の良い友人や仕事仲間同たちとの飲み会の際に、是非ご活用ください。
 
 ## 使い方
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/974d10d5-7d6e-401f-87f8-2e27890cba42" />
