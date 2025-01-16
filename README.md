@@ -1,5 +1,5 @@
 # With-Just-One-Line
-雑誌BRUTUS（ブルータス）の「一行だけで。」の[Youtube企画](https://www.youtube.com/watch?v=vGuLOHjpCLk)を誰でも再現して体験できるWebアプリです。  
+雑誌BRUTUS（ブルータス）の「一行だけで。」の[Youtube企画](https://www.youtube.com/watch?v=vGuLOHjpCLk)を誰でも再現して遊べるWebアプリです。  
 仲の良い友人や仕事仲間たちとの飲み会の際に、是非ご活用ください。
 
 ## 使い方
