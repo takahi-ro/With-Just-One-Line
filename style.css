@@ -1,3 +1,5 @@
-html,body {
+body {
   overflow: hidden;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-top: -15px;
 }
