@@ -41,7 +41,7 @@
             "「あなただけの至福の一時」にタイトルを付けてください"
         ];
 
-        document.getElementById('generate-topic').addEventListener('click', () => {
+        document.getElementById('change-topic').addEventListener('click', () => {
             const randomIndex = Math.floor(Math.random() * topics.length);
             document.getElementById('topic').textContent = topics[randomIndex];
         });
