@@ -2,7 +2,10 @@ body {
   font-family: 'Noto Sans JP', serif;
 }
 
-#change-topic:hover {
-  background-color: black;
-  opacity: 0.75;
+#change-topic:active {
+  opacity: 0.7;
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+  border-bottom: none;
 }
